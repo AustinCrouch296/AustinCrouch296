@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Austin Crouch</h1>
-<h3 align="center">A computer science / IT student from New York</h3>
+<h3 align="center">An IT student and hobbyist programmer from New York</h3>
 
 - 📚 I’ve earned my **CompTIA A+ and Network+ Certifications** this year, and I am currently studying for the **CCNA** and **Security+** exams!
 - 🦧 I like video games and monkeys :)
