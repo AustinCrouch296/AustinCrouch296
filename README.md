@@ -1,6 +1,6 @@
 <h1>Hi, I'm Austin! 👋 </br><a href="https://www.linkedin.com/in/austinscrouch/">IT Professional</a> from New York</h1>
 
-- 📚 I earned my **CompTIA A+, Network+, and Security+**, and I am actively studying for the **CCNA** and **AZ-900** certifications next.
+- I earned my **CompTIA A+, Network+, and Security+**, and I am actively studying for the **CCNA** and **AZ-900** certifications next.
 - I am currently working towards entering the Cyber Security industry. Check out my [2024 Roadmap](https://github.com/AustinCrouch296/CybersecurityRoadmap)!
 
 - About Me:
