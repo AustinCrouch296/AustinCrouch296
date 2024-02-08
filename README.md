@@ -11,6 +11,8 @@
 <h2>My Projects</h2>
 
 - [SOC Automation Project](https://github.com/AustinCrouch296/SOCAutomationLab)
+  - Explore the role of automation in incident response by creating a Security Operations Center (SOC) environment, utilizing it for incident detection, analysis, and response scenarios.
+  - Step-by-step documentation to help others set up their own SOC environment using free and open-source tools, such as Wazuh (SIEM and XDR), Shuffle (SOAR), and TheHive (Case Management).
 
 - [Active Directory and Group Policy Lab](https://github.com/AustinCrouch296/ActiveDirectoryLab)
   - Creating an Active Directory Domain controller, populating with user accounts using PowerShell, and connecting into it using Windows 10 client virtual machines to simulate a real-world network. </br>
