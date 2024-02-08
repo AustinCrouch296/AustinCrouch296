@@ -10,7 +10,7 @@
 
 <h2>My Projects</h2>
 
-- <b> [Active Directory/Group Policy Lab](https://github.com/AustinCrouch296/ActiveDirectoryLab)</b>
+- <b> [Active Directory and Group Policy Lab](https://github.com/AustinCrouch296/ActiveDirectoryLab)</b>
   - Creating an Active Directory Domain controller, populating with user accounts using PowerShell, and connecting into it using Windows 10 client virtual machines to simulate a real-world network. </br>
   - A step-by-step guide to getting your VMs setup to experiment with group policies and user/device-specific configurations.
 - <b> [Friend's Portfolio Website](https://github.com/AustinCrouch296/AustinCrouch296.github.io)</b>
