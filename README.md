@@ -1,18 +1,17 @@
-<h1>Hi, I'm Austin! 👋 </br><a href="https://www.linkedin.com/in/austinscrouch/">IT Professional</a> from New York</h1>
+<h1>Hi, I'm Austin! 👋 </br><a href="https://www.linkedin.com/in/austinscrouch/">Passionate Cybersecurity Analyst</a></h1>
 
-- I earned my **CompTIA A+, Network+, and Security+**, and I am actively studying for the **CCNA** and **AZ-900** certifications next.
-- I am currently working towards entering the Cyber Security industry. Check out my [2024 Roadmap](https://github.com/AustinCrouch296/CybersecurityRoadmap)!
+- Earned my **CompTIA A+, Network+, and Security+** certifications, and actively studying for the **CCNA** next! [(2024 Roadmap)](https://github.com/AustinCrouch296/CybersecurityRoadmap)
 
-- About Me:
-  - Currently Watching: [Darknet Diaries](https://www.youtube.com/@JackRhysider) and [Simply Cyber (Daily Threat Briefing)](https://www.youtube.com/channel/UCG-48Ki-b6W_siaUkukJOSw)</a>.
-  - Currently Reading: Cryptonomicon - Neil Stephenson
-  - You can find me giving regular A+, Network+, and Security+ Study Sessions in [Professor Messer's Discord](https://www.professormesser.com/discord).
+- How I Stay Current:
+  - Learning on [TryHackMe](https://tryhackme.com/p/AustinCrouch296) (top 7%), and participating in CTFs.
+  - Listening to [Darknet Diaries](https://www.youtube.com/@JackRhysider) and the [Simply Cyber (Daily Threat Briefing)](https://www.youtube.com/channel/UCG-48Ki-b6W_siaUkukJOSw)</a>.
+  - Teaching others with weekly A+, Network+, and Security+ Study Sessions in the [Professor Messer Discord Server](https://www.professormesser.com/discord).
 
 <h2>My Projects</h2>
 
 - [SOC Automation Project](https://github.com/AustinCrouch296/SOCAutomationLab)
-  - Explore the role of automation in incident response by creating a Security Operations Center (SOC) environment, utilizing it for incident detection, analysis, and response scenarios.
-  - Step-by-step documentation to help others set up their own SOC environment using free and open-source tools, such as Wazuh (SIEM and XDR), Shuffle (SOAR), and TheHive (Case Management).
+  - Guide on setting up a Security Operations Center (SOC) environment to explore automation in incident detection, analysis, and response scenarios.
+  - Utilizes entirely free and open-source tools, such as Wazuh (SIEM and XDR), Shuffle (SOAR), and TheHive (Case Management).
 
 - [Active Directory and Group Policy Lab](https://github.com/AustinCrouch296/ActiveDirectoryLab)
   - Creating an Active Directory Domain controller, populating with user accounts using PowerShell, and connecting into it using Windows 10 client virtual machines to simulate a real-world network. </br>
