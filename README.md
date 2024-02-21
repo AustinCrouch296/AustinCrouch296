@@ -1,6 +1,6 @@
 <h1>Hi, I'm Austin! 👋 </br><a href="https://www.linkedin.com/in/austinscrouch/">Passionate Cybersecurity Analyst</a></h1>
 
-- Earned my **CompTIA A+, Network+, and Security+** certifications, and actively studying for the **CCNA** next! [(2024 Roadmap)](https://github.com/AustinCrouch296/CybersecurityRoadmap)
+- Earned my **CompTIA A+, Network+, and Security+** certifications, and actively studying for the **CCNA** next!
 
 - How I Stay Current:
   - Learning on [TryHackMe](https://tryhackme.com/p/AustinCrouch296) (top 7%), and participating in CTFs.
